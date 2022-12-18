@@ -20,7 +20,7 @@
 
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic!
 
-<b><i>I truly love solving complex problems using technology and share experienceS with other developers.</i></b> 
+<b><i>I truly love solving complex problems using technology and share experiences with other developers.</i></b> 
 <hr />
 
 <div align="center">

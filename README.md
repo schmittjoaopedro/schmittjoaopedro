@@ -2,14 +2,14 @@
 
 <hr />
 
-<a href="https://www.linkedin.com/in/joao-pedro-schmitt-60847470/" target="_blank">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+<a href="https://www.linkedin.com/in/joao-pedro-schmitt-60847470/" target="_blank" >
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="mailto:schmittjoaopedro@gmail.com" target="_blank">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
+<a href="mailto:schmittjoaopedro@gmail.com" target="_blank" >
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://stackoverflow.com/users/5274291/jo%c3%a3o-pedro-schmitt" target="_blank">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg"/>
+<a href="https://stackoverflow.com/users/5274291/jo%c3%a3o-pedro-schmitt" target="_blank" >
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 
 <br/><br/>

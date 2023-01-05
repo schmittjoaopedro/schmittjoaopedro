@@ -16,7 +16,7 @@
 
 ### About Me 🚀
 
-💻 I’m a **Full-stack developer** with a B.Sc. in Information Technology and M.Sc. in Computer Science. 
+💻 I’m a **Full-stack developer** who loves share experiences about software development, cloud and distributed systems, science, and optimization.
 
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic!
 
